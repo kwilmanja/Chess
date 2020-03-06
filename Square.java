@@ -1,5 +1,5 @@
 import java.awt.Color;
-public class Square {
+public class Square { 
 
 	private int rank, file;
 	private Color color = Color.BLACK;
